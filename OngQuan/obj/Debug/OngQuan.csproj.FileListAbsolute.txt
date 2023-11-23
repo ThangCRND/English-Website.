@@ -1,0 +1,73 @@
+D:\PMQL\OngQuan\bin\Debug\OngQuan.exe.config
+D:\PMQL\OngQuan\bin\Debug\OngQuan.exe
+D:\PMQL\OngQuan\bin\Debug\OngQuan.pdb
+D:\PMQL\OngQuan\obj\Debug\OngQuan.csprojResolveAssemblyReference.cache
+D:\PMQL\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+D:\PMQL\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+D:\PMQL\OngQuan\obj\Debug\OngQuan.csproj.GenerateResource.Cache
+D:\PMQL\OngQuan\obj\Debug\OngQuan.exe
+D:\PMQL\OngQuan\obj\Debug\OngQuan.pdb
+E:\Visual studio\OngQuan\bin\Debug\OngQuan.exe.config
+E:\Visual studio\OngQuan\bin\Debug\OngQuan.exe
+E:\Visual studio\OngQuan\bin\Debug\OngQuan.pdb
+E:\Visual studio\OngQuan\obj\Debug\OngQuan.csprojResolveAssemblyReference.cache
+E:\Visual studio\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+E:\Visual studio\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+E:\Visual studio\OngQuan\obj\Debug\OngQuan.csproj.GenerateResource.Cache
+E:\Visual studio\OngQuan\obj\Debug\OngQuan.csproj.CoreCompileInputs.cache
+E:\Visual studio\OngQuan\obj\Debug\OngQuan.exe
+E:\Visual studio\OngQuan\obj\Debug\OngQuan.pdb
+E:\Visual studio\OngQuan\obj\Debug\OngQuan.frmAbout.resources
+E:\Visual studio\OngQuan\obj\Debug\OngQuan.Form2.resources
+E:\OngQuan\bin\Debug\OngQuan.exe.config
+E:\OngQuan\obj\Debug\OngQuan.exe
+E:\OngQuan\obj\Debug\OngQuan.pdb
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\bin\Debug\OngQuan.exe.config
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\bin\Debug\OngQuan.exe
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\bin\Debug\OngQuan.pdb
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\obj\Debug\OngQuan.csprojResolveAssemblyReference.cache
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\obj\Debug\OngQuan.Form2.resources
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\obj\Debug\OngQuan.frmAbout.resources
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\obj\Debug\OngQuan.csproj.GenerateResource.Cache
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\obj\Debug\OngQuan.csproj.CoreCompileInputs.cache
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\obj\Debug\OngQuan.exe
+C:\Users\Neko Valkyrie\Desktop\OngQuan\OngQuan\obj\Debug\OngQuan.pdb
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\bin\Debug\OngQuan.exe.config
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\bin\Debug\OngQuan.exe
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\bin\Debug\OngQuan.pdb
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.csprojResolveAssemblyReference.cache
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.Form2.resources
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.frmAbout.resources
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.csproj.GenerateResource.Cache
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.csproj.CoreCompileInputs.cache
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.exe
+C:\Users\Neko Valkyrie\Desktop\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.pdb
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\bin\Debug\OngQuan.exe.config
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\bin\Debug\OngQuan.exe
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\bin\Debug\OngQuan.pdb
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.csprojResolveAssemblyReference.cache
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.Form2.resources
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.frmAbout.resources
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.csproj.GenerateResource.Cache
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.csproj.CoreCompileInputs.cache
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.exe
+F:\IT Tong Hop\Code C#_WindowsForm\OngQuan\OngQuan\obj\Debug\OngQuan.pdb
+E:\Cung\Code\C#\OngQuan\OngQuan\bin\Debug\OngQuan.exe.config
+E:\Cung\Code\C#\OngQuan\OngQuan\bin\Debug\OngQuan.exe
+E:\Cung\Code\C#\OngQuan\OngQuan\bin\Debug\OngQuan.pdb
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.csproj.AssemblyReference.cache
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.csproj.SuggestedBindingRedirects.cache
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.Form2.resources
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.frmAbout.resources
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.csproj.GenerateResource.cache
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.csproj.CoreCompileInputs.cache
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.exe
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.pdb

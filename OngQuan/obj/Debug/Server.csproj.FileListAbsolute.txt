@@ -1,0 +1,110 @@
+E:\Cung\Code\C#\OngQuan\OngQuan\bin\Debug\OngQuan.exe.config
+E:\Cung\Code\C#\OngQuan\OngQuan\bin\Debug\OngQuan.exe
+E:\Cung\Code\C#\OngQuan\OngQuan\bin\Debug\OngQuan.pdb
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.Form2.resources
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.frmAbout.resources
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.exe
+E:\Cung\Code\C#\OngQuan\OngQuan\obj\Debug\OngQuan.pdb
+E:\Cung\Code\C#\OAnQuan\OngQuan\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Cung\Code\C#\OAnQuan\OngQuan\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\Cung\Code\C#\OAnQuan\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+E:\Cung\Code\C#\OAnQuan\OngQuan\obj\Debug\OngQuan.Form2.resources
+E:\Cung\Code\C#\OAnQuan\OngQuan\obj\Debug\OngQuan.frmAbout.resources
+E:\Cung\Code\C#\OAnQuan\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+E:\Cung\Code\C#\OAnQuan\OngQuan\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Cung\Code\C#\OAnQuan\OngQuan\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Cung\Code\C#\OAnQuan\OngQuan\obj\Debug\OngQuan.exe
+E:\Cung\Code\C#\OAnQuan\OngQuan\obj\Debug\OngQuan.pdb
+E:\Cung\Code\C#\OAnQuan\OngQuan\bin\Debug\OngQuan.exe.config
+E:\Cung\Code\C#\OAnQuan\OngQuan\bin\Debug\OngQuan.exe
+E:\Cung\Code\C#\OAnQuan\OngQuan\bin\Debug\OngQuan.pdb
+E:\Cung\Code\C#\OAnQuan\Server\bin\Debug\OngQuan.exe.config
+E:\Cung\Code\C#\OAnQuan\Server\bin\Debug\OngQuan.exe
+E:\Cung\Code\C#\OAnQuan\Server\bin\Debug\OngQuan.pdb
+E:\Cung\Code\C#\OAnQuan\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Cung\Code\C#\OAnQuan\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\Cung\Code\C#\OAnQuan\Server\obj\Debug\OngQuan.frmOngQuan.resources
+E:\Cung\Code\C#\OAnQuan\Server\obj\Debug\OngQuan.Form2.resources
+E:\Cung\Code\C#\OAnQuan\Server\obj\Debug\OngQuan.frmAbout.resources
+E:\Cung\Code\C#\OAnQuan\Server\obj\Debug\OngQuan.Properties.Resources.resources
+E:\Cung\Code\C#\OAnQuan\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Cung\Code\C#\OAnQuan\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Cung\Code\C#\OAnQuan\Server\obj\Debug\OngQuan.exe
+E:\Cung\Code\C#\OAnQuan\Server\obj\Debug\OngQuan.pdb
+D:\ADMIN\Downloads\OAnQuan\OngQuan\bin\Debug\OngQuan.exe.config
+D:\ADMIN\Downloads\OAnQuan\OngQuan\bin\Debug\OngQuan.exe
+D:\ADMIN\Downloads\OAnQuan\OngQuan\bin\Debug\OngQuan.pdb
+D:\ADMIN\Downloads\OAnQuan\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+D:\ADMIN\Downloads\OAnQuan\OngQuan\obj\Debug\OngQuan.Form2.resources
+D:\ADMIN\Downloads\OAnQuan\OngQuan\obj\Debug\OngQuan.frmAbout.resources
+D:\ADMIN\Downloads\OAnQuan\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+D:\ADMIN\Downloads\OAnQuan\OngQuan\obj\Debug\Server.csproj.GenerateResource.cache
+D:\ADMIN\Downloads\OAnQuan\OngQuan\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\ADMIN\Downloads\OAnQuan\OngQuan\obj\Debug\OngQuan.exe
+D:\ADMIN\Downloads\OAnQuan\OngQuan\obj\Debug\OngQuan.pdb
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\bin\Debug\OngQuan.exe.config
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\bin\Debug\OngQuan.exe
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\bin\Debug\OngQuan.pdb
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\obj\Debug\OngQuan.Form2.resources
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\obj\Debug\OngQuan.frmAbout.resources
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\obj\Debug\OngQuan.exe
+C:\Users\Admin\Desktop\OAnQuan\OngQuan\obj\Debug\OngQuan.pdb
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\bin\Debug\OngQuan.exe.config
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\bin\Debug\OngQuan.exe
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\bin\Debug\OngQuan.pdb
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\obj\Debug\OngQuan.Form2.resources
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\obj\Debug\OngQuan.frmAbout.resources
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\obj\Debug\OngQuan.exe
+C:\Users\Thiet\Downloads\Compressed\OAnQuan\OngQuan\obj\Debug\OngQuan.pdb
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\bin\Debug\OngQuan.exe.config
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\bin\Debug\OngQuan.exe
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\bin\Debug\OngQuan.pdb
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\obj\Debug\OngQuan.Form2.resources
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\obj\Debug\OngQuan.exe
+C:\Users\Thiet\Downloads\Compressed\OAnQuan - Copy\OngQuan\obj\Debug\OngQuan.pdb
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\bin\Debug\OngQuan.exe.config
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\bin\Debug\OngQuan.exe
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\bin\Debug\OngQuan.pdb
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\obj\Debug\OngQuan.exe
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\OAnQuan - Copy\OngQuan\obj\Debug\OngQuan.pdb
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\bin\Debug\OngQuan.exe.config
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\bin\Debug\OngQuan.exe
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\bin\Debug\OngQuan.pdb
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\obj\Debug\OngQuan.frmOngQuan.resources
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\obj\Debug\OngQuan.Properties.Resources.resources
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\obj\Debug\OngQuan.exe
+C:\Users\DELL\Documents\B_NĂM_HAI_2021-2022\[NT106.M22.ATCL]_OAnQuan_Final_Group4\OngQuan\obj\Debug\OngQuan.pdb
